@@ -1,0 +1,30 @@
+window.KTUtil = require('@/assets/js/components/util.js');
+window.KTApp = require('@/assets/js/components/app.js');
+window.KTCard = require('@/assets/js/components/card.js');
+window.KTCookie = require('@/assets/js/components/cookie.js');
+window.KTDialog = require('@/assets/js/components/dialog.js');
+window.KTHeader = require('@/assets/js/components/header.js');
+window.KTImageInput = require('@/assets/js/components/image-input.js');
+window.KTMenu = require('@/assets/js/components/menu.js');
+window.KTOffcanvas = require('@/assets/js/components/offcanvas.js');
+window.KTScrolltop = require('@/assets/js/components/scrolltop.js');
+window.KTToggle = require('@/assets/js/components/toggle.js');
+window.KTWizard = require('@/assets/js/components/wizard.js');
+require('@/assets/js/components/datatable/core.datatable.js');
+require('@/assets/js/components/datatable/datatable.checkbox.js');
+require('@/assets/js/components/datatable/datatable.rtl.js');
+
+// Keen layout base js
+window.KTLayoutAside = require('@/assets/js/layout/base/aside.js');
+window.KTLayoutAsideMenu = require('@/assets/js/layout/base/aside-menu.js');
+window.KTLayoutAsideToggle = require('@/assets/js/layout/base/aside-toggle.js');
+window.KTLayoutBrand = require('@/assets/js/layout/base/brand.js');
+window.KTLayoutContent = require('@/assets/js/layout/base/content.js');
+window.KTLayoutFooter = require('@/assets/js/layout/base/footer.js');
+window.KTLayoutHeader = require('@/assets/js/layout/base/header.js');
+window.KTLayoutHeaderMenu = require('@/assets/js/layout/base/header-menu.js');
+window.KTLayoutHeaderTopbar = require('@/assets/js/layout/base/header-topbar.js');
+window.KTLayoutSidebar = require('@/assets/js/layout/base/sidebar.js');
+window.KTLayoutSubheader = require('@/assets/js/layout/base/subheader.js');
+window.KTLayoutStickyCard = require('@/assets/js/layout/base/sticky-card.js');
+window.KTLayoutStretchedCard = require('@/assets/js/layout/base/stretched-card.js');

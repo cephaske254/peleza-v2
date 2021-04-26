@@ -23,3 +23,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # peleza-v2
+# peleza-v2
